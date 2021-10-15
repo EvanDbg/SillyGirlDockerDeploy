@@ -85,6 +85,7 @@ import (
     _ "github.com/cdle/sillyGirl/im/qq"
     _ "github.com/cdle/sillyGirl/im/wxmp"
     _ "github.com/cdle/sillyGirl/im/tg"
+    _ "github.com/cdle/sillyGirl/im/wx"
 )
 EOF
 
